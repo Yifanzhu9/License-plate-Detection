@@ -1,9 +1,8 @@
 # License-plate-Detection
-**dataset ccpd2019 ccpd2020 **
+**Dataset:ccpd2019 and ccpd2020**
 
-**yolov3 detect license-plate **
+**Model for detect: yolov5 detect license-plate**
 
-**ocrnet** 
+**Model for recognization: ocrnet** 
 
-**python gui
-**
+**UI:python gui**

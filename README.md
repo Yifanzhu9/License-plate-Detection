@@ -1,8 +1,9 @@
 # License-plate-Detection
-dataset ccpd2019 ccpd2020 
+**dataset ccpd2019 ccpd2020 **
 
-yolov3 detect license-plate 
+**yolov3 detect license-plate **
 
-ocrnet 
+**ocrnet** 
 
-python gui
+**python gui
+**
